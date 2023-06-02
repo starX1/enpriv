@@ -13,7 +13,6 @@ Atas Segala Tindakan Kejahatan Atau Penyalah Gunaan Tools Ini)
 ## Authors
 
 - [@starxhaxor](https://www.github.com/starxhaxor)
-- [@padangblackhat](https://www.github.com/padangblackhat)
 
 ## My Portfolio
 
@@ -28,7 +27,7 @@ Atas Segala Tindakan Kejahatan Atau Penyalah Gunaan Tools Ini)
 To run this project
 
 ```python
-  python envpriv.py
+  python enpriv.py
 ```
 
 ## Features
@@ -43,10 +42,9 @@ Install my-project with linux
 
 ```python
   cd starpriv
-  python envpriv.py
+  python enpriv.py
 ```
 
-![Logo](https://b.top4top.io/p_1982dfez90.png)
 
 ## 🛠 Skills
 
